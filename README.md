@@ -6,6 +6,9 @@ e-Sport project Mobile
 - ``JavaScript``
 - ``TypeScript``
 - ``React-Native``
+- ``React-Navigation``
 - ``Safe Area Context``
 - ``Linear Gradient``
+- ``Phosphor Icons``
+- ``Expo React Native Svg``
 - ``Google Fonts``
