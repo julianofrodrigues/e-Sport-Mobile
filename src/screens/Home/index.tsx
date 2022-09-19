@@ -9,17 +9,17 @@ import { Heading } from '../../components/Heading';
 import { styles } from './styles';
 
 export function Home() {
-  const [games, setGames] = useState<GameCardProps[]>([])
+  const [games, setGames] = useState<GameCardProps[]>([]);
 
-  const navigation = useNavigation()
+  const navigation = useNavigation();
 
   function handleOpenGame({ id, title, bannerUrl }: GameCardProps){
     navigation.navigate('game', { id, title, bannerUrl })
   }
 
   useEffect(() => {
-    fetch('http://IP do seu Backend/games').then(response => response.json()).then(data => setGames(data))
-  }, [])
+    fetch('http://Ip do Back end mais porta/games').then(response => response.json()).then(data => setGames(data))
+  }, []);
 
   return (
     <Background>

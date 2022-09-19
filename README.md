@@ -11,4 +11,6 @@ e-Sport project Mobile
 - ``Linear Gradient``
 - ``Phosphor Icons``
 - ``Expo React Native Svg``
+- ``Expo Clipboard``
+- ``Expo Notifications``
 - ``Google Fonts``
