@@ -7,11 +7,11 @@ The front-end project is in this other repository: https://github.com/julianofro
 
 ## Application images below 🤖
 <p>
-<img src="" alt="tela inicial" style="width: 400px; height: 650px"/>
-<img src="" alt="duos" style="width: 400px; height: 650px"/>
+<img src="https://i.imgur.com/2hQHtwc.jpg" alt="tela inicial" style="width: 400px; height: 650px"/>
+<img src="https://i.imgur.com/Jp1Dkyw.jpg" alt="duos" style="width: 400px; height: 650px"/>
 </P>
 <p align="center">
-<img src="" alt="discord" style="width: 400px; height: 650px"/>
+<img src="https://i.imgur.com/G3y5Ifk.jpg" alt="discord" style="width: 400px; height: 650px"/>
 </p>
 
 ## 📁 Project Access
