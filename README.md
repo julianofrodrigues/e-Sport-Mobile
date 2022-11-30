@@ -1,4 +1,4 @@
-<h1 align="center"> 📱 e-Sport-Front-End </h1>
+<h1 align="center"> 📱 e-Sport-Mobile </h1>
 
 # Project Summary
 Mobile from the e-Sport project, where you can view registered games and find players to play with you 🎧 <br>
